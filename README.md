@@ -30,6 +30,17 @@ It enables multiple users to write, sync, and share code in live sessions — ju
 
 ---
 
+## 📷 Screenshots
+
+| Join Room Page | Code Editor Page |
+|----------------|------------------|
+| ![Join Page](<img src="https://github.com/user-attachments/assets/7841823d-0785-4d52-a12d-fc5a20dce9ae" width="800" alt="Code Sync Screenshot" />
+>
+) | ![Editor Page](<img src="https://github.com/user-attachments/assets/72c305c3-eed9-46f2-b1d3-bca5aa9de93d" width="800" alt="Code Editor Screenshot" />
+) |
+
+---
+
 ## 🧠 Learning Goals
 
 - 🔄 Building real-time collaborative tools with WebSockets
